@@ -1,0 +1,21 @@
+2022-2023 veri iletişimi vize 
+1 ) A Noktasında pc, 36kbps SNRb = 511, QAM-64
+ a) a noktasında ki bantgenişliği = ?
+ b) SNRa = ? 
+ c) pc b de iken maks bant genişliği
+ d) pc b de iken kullanabileceği maks modülasyon
+ e) kablosuz erişim noktası a ya mı yakın b ye mi ?
+	 
+2 ) 110 000 111 000 000 001 010 000
+ a) HDB3 çiziniz
+ b) QAM-8 Yıldız topografi çiziniz
+ 
+
+3 ) 5.Harmonik(Bileşik sinyal) 1500hz 5.HarmonikV = 20, Toplam 7 harmonik var
+ a) bileşik sinyalin frekans spektrumu, temel frekans ve Bant genişliği
+ b) 3.harmonik +90 faz açısıyla matematiksel yaz, zaman birşeyinde çiz-yaz 
+ c) 100 kHz'lik frekans taşıyıcı ve frekans spektrumun çizimi ?
+
+4) 2000 - 5000 arasındaki analog sinyalin sayısal sinyale dönüşmesi için 72kbps gerekiyor 
+ a) a.sinyalin sayısal sinyale dönüşmesi için öteleme hızı, öteleme süresi , kuantalama blablası = ? 
+ b) öteleme süresi yarıya düşer kuantalama 2 katına çıkarsa gerekli olan bantgenişliği?
