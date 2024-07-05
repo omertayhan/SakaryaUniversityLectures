@@ -1,7 +1,6 @@
-# SakaryaUniversityLectures
-Sakarya University Lecture Files
-Other Resources
+## Sakarya University Lecture Files 
 
-https://github.com/byznrdmrr/cs-sakaryauniversity
+### Other Resources
+[cs-sakaryauniversity](https://github.com/byznrdmrr/cs-sakaryauniversity)
 
-https://github.com/bilgecakar/Sakarya-University-Computer-Engineering-Department
+[Sakarya-University-Computer-Engineering-Department](https://github.com/bilgecakar/Sakarya-University-Computer-Engineering-Department)
