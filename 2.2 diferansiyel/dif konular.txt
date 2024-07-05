@@ -1,0 +1,11 @@
+Temel kavramlar ve diferansiyel denklemlerin sınıflandırılması.
+Diferansiyel denklemlerin elde edilmeleri. 
+Değişkenlerine ayrılabilir diferansiyel denklemler.
+
+Değişkenlerine ayrılabilen denklemler. Homojen diferansiyel denklemler. 
+Homojen hale getirilebilir diferansiyel denklemler.Tam diferansiyel denklem.
+
+Tam diferansiyel denklem. İntegrasyon çarpanı. Birinci mertebeden lineer diferansiyel denklemler.
+
+Tam diferansiyel denklemlerin devamı
++integrasyon çarpanı
